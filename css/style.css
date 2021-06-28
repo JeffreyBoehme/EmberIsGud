@@ -1,0 +1,120 @@
+
+
+.navi{
+    position:relative;
+    width:100%;
+    overflow: hidden;
+
+    border: 1px solid rgb(129, 129, 129);
+background-color:  #DADADA;
+}
+
+body{
+    background-color: #dfdfdf;
+}
+
+
+.topmenuitem{
+display:inline-block;
+background-color:rgb(24, 23, 23);
+width:100px;
+padding: 5px 5px 5px 5px;
+text-align:center;
+font-size: 30px;
+color: darkgrey;
+}
+
+.topmenuitem:hover {
+        background-color:silver;
+        color: black;
+}
+
+.leftpane{
+position: relative;
+float:left;
+width:29%;
+height:900px;
+border-right: 1px solid rgb(129, 129, 129);
+
+}
+
+.topleft{
+height:30%;
+margin:2%;
+text-align:center;
+border-bottom: 1px solid rgb(129, 129, 129);
+
+}
+
+.bottomleft{
+height:66%;
+margin:2%;
+
+padding:25px
+}
+
+ul {
+    list-style-type: none;
+}
+.petfact{
+    font-size: 20px;
+    padding:35px 0px 0px 0px;
+color: rgb(0, 0, 0);
+}
+
+.rightpane{
+float:left;
+width:70%;
+height:900px;
+
+}
+
+.rightbox{
+    position: relative;
+    margin:2%;
+
+    width:96%;
+    height:96%;
+
+}
+
+.topright{
+    height:50%;
+    margin:3%;
+    text-align:left;
+    border: 1px solid rgb(129, 129, 129);
+    padding:0px 0px 0px 20px;
+    font-size:20px;
+}
+.bottomright{
+    height:35%;
+    margin:3%;
+    text-align:center;
+    border: 1px solid rgb(129, 129, 129);
+}
+.bottompic{
+    display:inline-block;
+    background-color:#c6c6c6;
+    border-radius:5px;
+    height:200px;
+    width:200px;
+    margin:35px;
+    margin-top:15px;
+    border-radius:5px;
+}
+
+.profilepic{
+    width:50%;
+    height:70%;
+    margin-top:20px;
+    border-radius:5px;
+}
+.topimage{
+    height:80%;
+    float:left;
+    margin-top:20px;
+
+    margin-right:20px;
+    border-radius:5px;
+}
+
