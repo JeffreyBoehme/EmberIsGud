@@ -4,7 +4,6 @@
     position:relative;
     width:100%;
     overflow: hidden;
-
     border: 1px solid rgb(129, 129, 129);
 background-color:  #DADADA;
 }
@@ -43,13 +42,11 @@ height:30%;
 margin:2%;
 text-align:center;
 border-bottom: 1px solid rgb(129, 129, 129);
-
 }
 
 .bottomleft{
 height:66%;
 margin:2%;
-
 padding:25px
 }
 
@@ -72,7 +69,6 @@ height:900px;
 .rightbox{
     position: relative;
     margin:2%;
-
     width:96%;
     height:96%;
 
@@ -96,16 +92,16 @@ height:900px;
     display:inline-block;
     background-color:#c6c6c6;
     border-radius:5px;
-    height:220px;
-    width:220px;
+    height:200px;
+    width:200px;
     margin:35px;
     margin-top:15px;
     border-radius:5px;
 }
 
 .profilepic{
-    width:220px;
-    height:220px;
+    width:200px;
+    height:200px;
     margin-top:20px;
     border-radius:5px;
 }
@@ -113,7 +109,6 @@ height:900px;
     height:80%;
     float:left;
     margin-top:20px;
-
     margin-right:20px;
     border-radius:5px;
 }
